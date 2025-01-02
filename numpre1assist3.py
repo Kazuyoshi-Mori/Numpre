@@ -218,6 +218,9 @@ def kanousu(suiteiBan, goal):
             kanouSuBan[i][j] = kanousuCount
     return kanouSuBan, kanouSuList
 
+class numpleData:
+    
+
 if __name__=='__main__':
     # 初期条件設定
     sufile = '/Volumes/KazuMoriHD 1/40Computer/Python/Numpre/numpyNumber2.txt'
